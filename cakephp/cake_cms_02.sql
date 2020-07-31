@@ -1,0 +1,32 @@
+USE cake_cms;
+
+--INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(1,1,'First Post','first-post','This is the first post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(2,1,'Second Post','second-post','This is the second post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(3,1,'Threeth Post','threeth-post','This is the threeth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(4,1,'Fourth Post','fourth-post','This is the fourth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(5,1,'Fifth Post','fifth-post','This is the fifth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(6,1,'Sixth Post','sixth-post','This is the sixth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(7,1,'Seventh Post','seventh-post','This is the seventh post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(8,1,'Eighth Post','eighth-post','This is the eighth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(9,1,'Ninth Post','ninth-post','This is the ninth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(10,1,'Tenth Post','tenth-post','This is the tenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(11,1,'Eleventh Post','eleventh-post','This is the eleventh post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(12,1,'Twelfth Post','twelfth-post','This is the twelfth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(13,1,'Thirteenth Post','thirteenth-post','This is the thirteenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(14,1,'Fourteenth Post','fourteenth-post','This is the fourteenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(15,1,'Fifteenth Post','fifteenth-post','This is the fifteenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(16,1,'Sixteenth Post','sixteenth-post','This is the sixteenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(17,1,'Seventeenth Post','seventeenth-post','This is the seventeenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(18,1,'Eighteenth Post','eighteenth-post','This is the eighteenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(19,1,'Nineteenth Post','nineteenth-post','This is the nineteenth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(20,1,'Twentieth Post','twentieth-post','This is the twentieth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(21,1,'Twentieth first Post','twentieth-first-post','This is the twentieth first post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(22,1,'Twentieth second Post','twentieth-second-post','This is the twentieth second post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(23,1,'Twentieth threeth Post','twentieth-threeth-post','This is the twentieth threeth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(24,1,'Twentieth fourth Post','twentieth-fourth-post','This is the twentieth fourth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(25,1,'Twentieth fifth Post','twentieth-fifth-post','This is the twentieth fifth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(26,1,'Twentieth sixth Post','twentieth-sixth-post','This is the twentieth sixth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(27,1,'Twentieth seventh Post','twentieth-seventh-post','This is the twentieth seventh post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(28,1,'Twentieth eight Post','twentieth-eight-post','This is the twentieth eight post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+INSERT INTO articles(id,user_id,title,slug,body,published,created,modified) VALUES(29,1,'Twentieth ninth Post','twentieth-ninth-post','This is the twentieth ninth post.',1,'2020-04-01 17:00:00','2020-04-01 17:00:00');
+
