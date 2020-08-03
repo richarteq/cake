@@ -1,0 +1,93 @@
+# src/Template/Layout/default.ctp
+#
+msgid "Search for..."
+msgstr "Buscar por..."
+#
+msgid "Language"
+msgstr "Idioma"
+#
+msgid "Copyright"
+msgstr "Derechos de autor"
+#
+
+# src/Template/Articles/index.ctp
+#
+msgid "Articles"
+msgstr "Artículos"
+#
+msgid "List Articles"
+msgstr "Artículos"
+#
+msgid "New Article"
+msgstr "Agregar Artículo"
+#
+msgid "List Users"
+msgstr "Usuarios"
+#
+msgid "New User"
+msgstr "Agregar Usuario"
+#
+msgid "List Tags"
+msgstr "Etiquetas"
+#
+msgid "New Tag"
+msgstr "Agregar Etiqueta"
+#
+msgid "Search"
+msgstr "Buscar"
+#
+msgid "Id"
+msgstr "Código"
+#
+msgid "User"
+msgstr "Usuario"
+#
+msgid "Title"
+msgstr "Título"
+#
+msgid "Slug"
+msgstr "Url amigable"
+#
+msgid "Published"
+msgstr "Publicado"
+#
+msgid "Created"
+msgstr "Creado"
+#
+msgid "Modified"
+msgstr "Modificado"
+#
+msgid "Actions"
+msgstr "Acciones"
+#
+msgid "View"
+msgstr "Ver"
+#
+msgid "Edit"
+msgstr "Editar"
+#
+msgid "Delete"
+msgstr "Borrar"
+#
+msgid "Cancel"
+msgstr "Cancelar"
+#
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de un total de {{count}}"
+#
+msgid "First"
+msgstr "Primero"
+#
+msgid "Previous"
+msgstr "Anterior"
+#
+msgid "Next"
+msgstr "Siguiente"
+#
+msgid "Last"
+msgstr "Último"
+#
+#
+msgid "Are you sure you want to delete # "
+msgstr "¿Estás seguro de que quieres eliminar # "
+#

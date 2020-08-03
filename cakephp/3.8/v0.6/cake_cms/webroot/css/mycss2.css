@@ -1,0 +1,22 @@
+div.error-message {
+  color: #78261f!important;
+  display: block;
+  margin-top: .25rem;
+  font-size: .875rem;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+div.error-message ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+div.error{
+  width: 100% !important;
+}
+
+div.error input, div.error select, div.error textarea {
+  border: 1px solid #f8ccc8 !important;
+}
