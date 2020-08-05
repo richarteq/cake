@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1440px) {
+  .labelButton {
+    display: none;
+  }
+  .tableHeadUnnecessaryReally {
+    display: none;
+  }
+  .tableCeldUnnecessaryReally {
+    display: none;
+  }
+  .itemLinkTabUnnecessaryReally {
+    display: none;
+  }
+  .dataTables_info {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  
+  .tableHeadUnnecessary {
+    display: none;
+  }
+  .tableCeldUnnecessary {
+    display: none;
+  }
+  .itemLinkTabUnnecessary {
+    display: none;
+  }
+}
